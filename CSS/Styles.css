@@ -177,9 +177,9 @@
   font-size: 1.4vw;
 }
 .solar-logo{
-  height: 6%;
-  margin-left: 62%;
-  margin-top: -1%;
+  height: 4%;
+  margin-left: 78%;
+  margin-top: 0%
 }
 }
 @media  (min-width: 1000px) and (max-width:1390px) {
@@ -223,9 +223,9 @@
   font-size: 1.4vw;
 }
 .solar-logo{
-  height: 6%;
-  margin-left: 49%;
-  margin-top: 1%;
+  height: 4%;
+  margin-left: 72%;
+  margin-top: 3%;
 }
 }
 html {
